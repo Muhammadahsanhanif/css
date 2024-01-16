@@ -1,0 +1,63 @@
+.i{
+     display: inline-block;
+
+     width: 180px;
+     
+     
+
+}
+#g{
+
+
+    margin: 50px;
+}
+
+
+@font-face{
+    font-family: lemon;
+    src: url(/fonts/Lemon-Regular.ttf);
+}
+li{
+    font-family: lemon;
+}
+li:hover{
+    color: darkgreen;
+
+    
+}
+
+.abc{
+   background-color: green; 
+   word-spacing: 30px;
+}
+.kfc{
+    background-color: blue;
+}
+.csd{
+    color: green;
+
+    padding: 100px;
+
+    line-height: 40px;
+
+}
+.u{
+    font-family: lemon;
+    color: gray;
+}
+.anas{
+    background-color: green;
+    padding: 10px;
+}
+.waseem{
+    float: right;
+    margin-top: -450px;
+}
+.k{
+    color: gray;
+    margin: 100px;
+}
+.p{
+    word-spacing:300px ;
+}
+
